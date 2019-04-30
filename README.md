@@ -65,3 +65,6 @@ For questions, suggestions and bug reports, you can contact us through the pm-to
 
 You can also join our pm-tools-users@bsc.es mailing list by sending an e-mail to 
 pm-tools-users-join@bsc.es.
+
+## Acknowledgements
+This work has been supported by EU H2020 ICT project LEGaTO, contract #780681.
